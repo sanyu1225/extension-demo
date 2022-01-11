@@ -1,2 +1,2 @@
 # extension-demo
-use ui library demo
+demo for ui library (vuetify,element,antd...)
